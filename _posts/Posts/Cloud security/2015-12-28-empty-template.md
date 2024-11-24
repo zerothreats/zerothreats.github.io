@@ -1,9 +1,8 @@
 ---
 layout: post
 comments: true
-categories: cloud
+categories: Cloud Security
 ---
 
 ## Empty diary template
-
 Empty post template
