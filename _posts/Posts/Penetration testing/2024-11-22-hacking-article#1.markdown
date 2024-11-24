@@ -1,25 +1,58 @@
 ---
 layout: post
-title:  "hello jekyll!"
-date:   2015-02-10 15:14:54
-categories: hacking
+title:  "Penetration testing"
+date:   2024-11-24 15:14:54
+categories: penetration_test
 comments: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Key Characteristics of Ethical Hacking
 
-Jekyll also offers powerful support for code snippets:
+    Authorized
+        `Ethical hacking is always conducted with the consent of the organization or system owner.
 
-	def print_hi(name)
-	  puts "Hi, #{name}"
-	end
-	print_hi('Tom')
-	#=> prints 'Hi, Tom' to STDOUT.
+    Purposeful
+        The goal is to uncover and fix vulnerabilities before they can be exploited by malicious hackers.
+
+    Legal
+        It complies with laws, regulations, and ethical standards.
+
+    Methodical
+        Ethical hackers use structured methodologies and tools similar to those used by malicious hackers to ensure thorough testing.
+
+## Common Ethical Hacking Techniques
+
+    Penetration Testing
+        Simulates real-world attacks to evaluate system security.
+
+    Vulnerability Assessment
+        Scans for and identifies `security weaknesses` in systems.
+
+    Social Engineering
+        Tests employees' awareness by simulating phishing emails, phone scams, or other manipulative techniques.
+
+    Network Sniffing
+        Analyzes network traffic to detect unauthorized activities or weaknesses.
+
+    Password Cracking
+        Attempts to uncover weak or compromised passwords.
+
+## Why Ethical Hacking is Important
+
+    Proactive Defense: Prevents breaches by addressing vulnerabilities in advance.
+    Compliance: Helps organizations meet security standards (e.g., GDPR, PCI DSS).
+    Risk Mitigation: Reduces the likelihood of financial losses, data breaches, or reputational damage.
+
+## How to Become an Ethical Hacker
+
+    Gain knowledge in `networking`, `programming`, and `operating systems`.
+    Learn penetration testing tools like Metasploit, Nmap, or Burp Suite.
+	or train on [HackTheBox][HTB] OR [Tryhackme][THM]
+    Obtain certifications like Certified Ethical Hacker (CEH), CompTIA Pentest+, or Offensive Security Certified Professional (OSCP).
+
+Ethical hackers play a vital role in securing systems and making cyberspace safer.
 
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[HTB]: https://www.hackthebox.com/
+[THM]: https://tryhackme.com/
