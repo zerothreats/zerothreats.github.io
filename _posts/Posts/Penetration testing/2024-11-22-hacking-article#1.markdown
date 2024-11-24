@@ -1,16 +1,15 @@
 ---
 layout: post
 title:  "Penetration testing"
-date:   2024-11-24 15:14:54
+date:   2024-11-24
 categories: Penetration_test
 comments: true
 ---
-* content
-{:toc}
+
 ## Key Characteristics of Ethical Hacking
-    
-	Authorized
-		Ethical hacking is always conducted with the consent of the organization or system owner.
+
+Authorized
+    Ethical hacking is always conducted with the consent of the organization or system owner.
     
 	Purposeful
         The goal is to uncover and fix vulnerabilities before they can be exploited by malicious hackers.

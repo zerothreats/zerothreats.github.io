@@ -2,6 +2,7 @@
 layout: post
 comments: true
 categories: Cloud_security
+date:   2024-11-24
 ---
 
 ## Cloud security 
