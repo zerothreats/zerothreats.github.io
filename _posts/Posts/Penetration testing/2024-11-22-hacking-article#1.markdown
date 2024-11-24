@@ -9,15 +9,15 @@ comments: true
 ## Key Characteristics of Ethical Hacking
     
 	Authorized
-        `Ethical hacking` is always conducted with the consent of the organization or system owner.
-
-    Purposeful
+        Ethical hacking is always conducted with the consent of the organization or system owner.
+    
+	Purposeful
         The goal is to uncover and fix vulnerabilities before they can be exploited by malicious hackers.
-
-    Legal
+    
+	Legal
         It complies with laws, regulations, and ethical standards.
-
-    Methodical
+    
+	Methodical
         Ethical hackers use structured methodologies and tools similar to those used by malicious hackers to ensure thorough testing.
 
 ## Common Ethical Hacking Techniques
@@ -26,7 +26,7 @@ comments: true
         Simulates real-world attacks to evaluate system security.
 
     Vulnerability Assessment
-        Scans for and identifies `security weaknesses` in systems.
+        Scans for and identifies security weaknesses in systems.
 
     Social Engineering
         Tests employees' awareness by simulating phishing emails, phone scams, or other manipulative techniques.
@@ -45,7 +45,7 @@ comments: true
 
 ## How to Become an Ethical Hacker
 
-    Gain knowledge in `networking`, `programming`, and `operating systems`.
+    Gain knowledge in networking, programming, and operating systems.
     Learn penetration testing tools like Metasploit, Nmap, or Burp Suite.
 	or train on [HackTheBox][HTB] OR [Tryhackme][THM]
     Obtain certifications like Certified Ethical Hacker (CEH), CompTIA Pentest+, or Offensive Security Certified Professional (OSCP).
